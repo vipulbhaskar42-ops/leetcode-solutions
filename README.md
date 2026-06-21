@@ -17,3 +17,15 @@ This repository contains my LeetCode solutions in Python.
 - 316. Remove Duplicate Letters
 - 412. Fizz Buzz
 - 1480. Running Sum of 1d Array
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0118-pascals-triangle) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0118-pascals-triangle) |
+<!---LeetCode Topics End-->
