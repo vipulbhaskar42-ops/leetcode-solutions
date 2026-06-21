@@ -24,11 +24,13 @@ This repository contains my LeetCode solutions in Python.
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
 | ------- |
