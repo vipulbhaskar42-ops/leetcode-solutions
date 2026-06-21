@@ -24,8 +24,25 @@ This repository contains my LeetCode solutions in Python.
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0169-majority-element](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0118-pascals-triangle) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
