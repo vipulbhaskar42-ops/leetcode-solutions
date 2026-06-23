@@ -42,6 +42,7 @@ This repository contains my LeetCode solutions in Python.
 | ------- |
 | [0001-two-sum](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -53,6 +54,7 @@ This repository contains my LeetCode solutions in Python.
 | [0088-merge-sorted-array](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
@@ -87,4 +89,8 @@ This repository contains my LeetCode solutions in Python.
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0326-power-of-three) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
