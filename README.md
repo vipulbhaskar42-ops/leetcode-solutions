@@ -62,6 +62,7 @@ This repository contains my LeetCode solutions in Python.
 | ------- |
 | [0009-palindrome-number](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0326-power-of-three](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0326-power-of-three) |
 ## Linked List
 |  |
 | ------- |
@@ -82,4 +83,8 @@ This repository contains my LeetCode solutions in Python.
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0704-binary-search) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
