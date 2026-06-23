@@ -47,4 +47,8 @@ This repository contains my LeetCode solutions in Python.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
