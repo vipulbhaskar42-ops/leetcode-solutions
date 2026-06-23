@@ -24,6 +24,7 @@ This repository contains my LeetCode solutions in Python.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0169-majority-element) |
@@ -48,6 +49,7 @@ This repository contains my LeetCode solutions in Python.
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0169-majority-element) |
 ## Counting
@@ -66,6 +68,7 @@ This repository contains my LeetCode solutions in Python.
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0283-move-zeroes) |
