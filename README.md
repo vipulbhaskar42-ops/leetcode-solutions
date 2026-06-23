@@ -28,6 +28,7 @@ This repository contains my LeetCode solutions in Python.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0704-binary-search](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0704-binary-search) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -69,4 +70,8 @@ This repository contains my LeetCode solutions in Python.
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0148-sort-list) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
