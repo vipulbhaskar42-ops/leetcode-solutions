@@ -94,5 +94,10 @@ This repository contains my LeetCode solutions in Python.
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0242-valid-anagram) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
