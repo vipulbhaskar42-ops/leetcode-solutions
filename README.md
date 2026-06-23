@@ -100,4 +100,16 @@ This repository contains my LeetCode solutions in Python.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
