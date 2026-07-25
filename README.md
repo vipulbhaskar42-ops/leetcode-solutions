@@ -89,6 +89,7 @@ This repository contains my LeetCode solutions in Python.
 | [0005-longest-palindromic-substring](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -119,6 +120,7 @@ This repository contains my LeetCode solutions in Python.
 | [0013-roman-to-integer](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
@@ -156,4 +158,8 @@ This repository contains my LeetCode solutions in Python.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
