@@ -104,6 +104,7 @@ This repository contains my LeetCode solutions in Python.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Stack
