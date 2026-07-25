@@ -77,6 +77,7 @@ This repository contains my LeetCode solutions in Python.
 | [0012-integer-to-roman](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0189-rotate-array](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0326-power-of-three) |
 ## Linked List
@@ -125,6 +126,7 @@ This repository contains my LeetCode solutions in Python.
 | [0020-valid-parentheses](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0242-valid-anagram](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
@@ -175,4 +177,8 @@ This repository contains my LeetCode solutions in Python.
 | ------- |
 | [0039-combination-sum](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0040-combination-sum-ii) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
