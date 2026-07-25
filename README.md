@@ -45,6 +45,7 @@ This repository contains my LeetCode solutions in Python.
 | [0001-two-sum](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
@@ -70,6 +71,7 @@ This repository contains my LeetCode solutions in Python.
 | [0007-reverse-integer](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0326-power-of-three) |
 ## Linked List
@@ -109,6 +111,7 @@ This repository contains my LeetCode solutions in Python.
 | [0005-longest-palindromic-substring](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Stack
