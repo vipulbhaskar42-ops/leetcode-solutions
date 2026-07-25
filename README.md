@@ -63,12 +63,14 @@ This repository contains my LeetCode solutions in Python.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0326-power-of-three) |
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0148-sort-list](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
@@ -91,6 +93,7 @@ This repository contains my LeetCode solutions in Python.
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0326-power-of-three) |
 ## String
