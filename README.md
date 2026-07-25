@@ -24,6 +24,7 @@ This repository contains my LeetCode solutions in Python.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -112,6 +113,7 @@ This repository contains my LeetCode solutions in Python.
 | [0006-zigzag-conversion](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Stack
@@ -146,4 +148,8 @@ This repository contains my LeetCode solutions in Python.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
