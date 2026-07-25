@@ -66,6 +66,7 @@ This repository contains my LeetCode solutions in Python.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0326-power-of-three) |
