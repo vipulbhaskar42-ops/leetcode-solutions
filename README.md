@@ -26,6 +26,7 @@ This repository contains my LeetCode solutions in Python.
 | [0001-two-sum](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0118-pascals-triangle) |
@@ -87,6 +88,7 @@ This repository contains my LeetCode solutions in Python.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0189-rotate-array) |
