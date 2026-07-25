@@ -74,6 +74,7 @@ This repository contains my LeetCode solutions in Python.
 | [0009-palindrome-number](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0189-rotate-array](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0326-power-of-three) |
 ## Linked List
@@ -162,4 +163,8 @@ This repository contains my LeetCode solutions in Python.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/vipulbhaskar42-ops/leetcode-solutions/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
