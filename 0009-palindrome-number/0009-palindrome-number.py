@@ -10,5 +10,3 @@ class Solution:
             temp //= 10
 
         return rev == x
-obj = Solution()
-print(obj.isPalindrome(121))
